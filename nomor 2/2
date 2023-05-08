@@ -1,1 +1,2 @@
-
+kita dapat menggunakan kelas-kelas yang kita buat (sebagai super kelas) dan membuat kelas kelas baru berdasar superkelas tersebut dengan karakteristik yang lebih
+khusus dari behaviour umum yang dimiliki superkelas. Dan kode yang digunakan untukolymorphism lebih mudah dibaca dan dipahami.
